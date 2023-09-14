@@ -1,4 +1,5 @@
-from average_race_time import get_data, get_average, get_rhines_times
+# from average_race_time import get_data, get_average, get_rhines_times
+from average_race_time import *
 
 def test_rhine_times():
     result = get_rhines_times()
